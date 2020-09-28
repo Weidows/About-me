@@ -2,7 +2,7 @@
  * @Author: Weidows
  * @Date: 2020-09-15 17:03:26
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-24 21:29:37
+ * @LastEditTime: 2020-09-28 08:18:49
  * @FilePath: \Weidowsg:\Repo\Resume\README.md
 -->
   <!-- <img src="./Blue_background.jpg" alt="看到这句话说明图片无法显示" title="这是Weidows本人" width="100" height="" border="0" /> -->
@@ -12,14 +12,14 @@
 
 | 求职意向 | GitHub | 邮箱 | 手机/微信 |
 | :-: | :-: | :-: | :-: |
-| `undefined实习岗` | https://github.com/Weidows | [utsuko27@qq.com](https://mail.qq.com) | `18330785221` |
+| `undefined-实习岗` | https://github.com/Weidows | [utsuko27@qq.com](https://mail.qq.com) | `18330785221` |
   
 
 # 专业技能
 ---
 | 方面 | 介绍 |
 | :-: | - |
-| **后端** | Java基础(深修中) |
+| **后端** | Java高级(深修中)，接触并正在使用Node.js。 |
 | **前端** | 对基于Node.JS-Hexo的Butterfly主题进行改进后搭建个人博客部署在Gitee-Pages。 |
 | **数据库** | 使用LeanCloud与七牛云的对象云存储oss存储网络数据（个人博客中的评论以及说说、表情数据）。 |
 | **服务器** | 使用阿里云进行域名管理，LeanCloud部署Valine-Admin进行个人博客评论系统的管理及后台邮件提醒，熟练使用GitHub、Gitee等代码托管平台的静态网页部署服务。 |
@@ -38,4 +38,5 @@
   ### 河北农业大学 2019~至今 （2023毕业）
   * **专业**：`计算机科学与技术 一本`
   * **外语能力**：
-  * **比赛经历**：
+  ### **比赛经历**：
+  * 2020-9：大二参与CCPC与HBCPC程序设计大赛,小组在HBCPC获得三等奖。
