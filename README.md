@@ -2,11 +2,13 @@
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-18 14:58:34
+ * @LastEditTime: 2020-11-28 18:46:40
  * @FilePath: \Repo\Resume\README.md
 -->
 <h1 align="center">
- 刘伟-Weidows
+
+`刘伟` - `Weidows`
+
 </h1>
 
 |      求职意向      |           GitHub           |                  邮箱                  |   手机/微信   |
