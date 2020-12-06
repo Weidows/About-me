@@ -2,7 +2,7 @@
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-06 20:55:15
+ * @LastEditTime: 2020-12-06 20:58:19
  * @FilePath: \Resume\README.md
 -->
 <h1 align="center">
@@ -12,9 +12,9 @@
 </h1>
 <center>
 
-|      求职意向      |                GitHub                 |                  邮箱                  |   手机/微信   |               网站                |
-| :----------------: | :-----------------------------------: | :------------------------------------: | :-----------: | :-------------------------------: |
-| `undefined-实习岗` | [Weidows](https://github.com/Weidows) | [utsuko27@qq.com](https://mail.qq.com) | `18330785221` | [博客](https://weidows.github.io) |
+|      求职意向      |                GitHub                 |                  邮箱                  |   手机/微信   |
+| :----------------: | :-----------------------------------: | :------------------------------------: | :-----------: |
+| `undefined-实习岗` | [Weidows](https://github.com/Weidows) | [utsuko27@qq.com](https://mail.qq.com) | `18330785221` |
 
 </center>
 
